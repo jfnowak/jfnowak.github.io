@@ -9,8 +9,8 @@ jfnowak.github.io
 
 [SQL Server Extended Events and deadlock investigation][article1] Tue, 07/17/2012 - 23:53
 
-[article1]: article1.md
-[articel2]: article2.md
-[article3]: article3.md
-[article4]: article4.md
+[article1]: article1
+[articel2]: article2
+[article3]: article3
+[article4]: article4
 
