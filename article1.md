@@ -1,3 +1,8 @@
+---
+layout: post
+title: SQL Server Extended Events and deadlock investigation
+---
+
 SQL Server Extended Events and deadlock investigation
 -----------------------------------------------------
 Tue, 07/17/2012 - 23:53
