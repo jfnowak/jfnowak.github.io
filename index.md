@@ -1,7 +1,5 @@
----
-layout: post
-title: Blog
----
+jfnowak.github.io
+-----------------
 
 [Security by obscurity, won't even work on my dogs][article4] Thu, 01/31/2013 - 00:01
 
