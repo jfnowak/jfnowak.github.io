@@ -1,8 +1,3 @@
----
-layout: post
-title: 10 Lines of code per day
----
-
 10 Lines of code per day
 ------------------------
 Thu, 01/24/2013 - 00:44

@@ -1,8 +1,3 @@
----
-layout: post
-title: Security by obscurity, won't even work on my dogs
----
-
 Security by obscurity, won't even work on my dogs
 -------------------------------------------------
 Thu, 01/31/2013 - 00:01

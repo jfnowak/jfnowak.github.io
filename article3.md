@@ -1,8 +1,3 @@
----
-layout: post
-title: When is synchronous asynchronous?
----
-
 When is synchronous asynchronous?
 ---------------------------------
 
