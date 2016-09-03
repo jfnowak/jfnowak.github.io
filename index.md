@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 [Security by obscurity, won't even work on my dogs][article4] Thu, 01/31/2013 - 00:01
 
 [When is synchronous asynchronous?][article3] Sat, 01/26/2013 - 00:42
