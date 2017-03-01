@@ -2,7 +2,7 @@
 
 [When is synchronous asynchronous?][article3] Sat, 01/26/2013 - 00:42
 
-[10 lines of code per day][article2] Thu, 01/24/2013 - 00:44
+[Ten lines of code per day][article2] Thu, 01/24/2013 - 00:44
 
 [SQL Server Extended Events and deadlock investigation][article1] Tue, 07/17/2012 - 23:53
 
